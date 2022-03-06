@@ -1,0 +1,15 @@
+<mvc:View
+	controllerName="membership.controller.MembersArea"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc">
+	<App>
+		<Page title="Your Premium Members Area!">
+			<Button
+				text="Steady..."
+				press=".onPress"
+				type="Emphasized"
+				class="sapUiSmallMargin"/>
+		</Page>
+	</App>
+</mvc:View>
