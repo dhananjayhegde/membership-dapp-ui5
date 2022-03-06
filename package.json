@@ -1,0 +1,33 @@
+{
+  "name": "membership-dapp",
+  "version": "1.0.0",
+  "description": "Membership dApp with OpenUI5",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server webapp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhananjayhegde/membership-dapp-ui5.git"
+  },
+  "keywords": [
+    "dapp",
+    "ui5",
+    "sap",
+    "membership",
+    "tokens",
+    "web3",
+    "crypto"
+  ],
+  "author": "Dhananjay Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhananjayhegde/membership-dapp-ui5/issues"
+  },
+  "homepage": "https://github.com/dhananjayhegde/membership-dapp-ui5#readme",
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "web3modal": "^1.9.5"
+  }
+}
